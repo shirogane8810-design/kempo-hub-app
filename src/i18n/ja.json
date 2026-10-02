@@ -1,0 +1,12 @@
+{
+  "appName": "日本拳法 大会ハブ",
+  "nav": {
+    "home": "トップ",
+    "schedule": "年間スケジュール",
+    "me": "マイページ",
+    "admin": "運営",
+    "ref": "審判"
+  },
+  "notConfigured": "Supabase がまだ設定されていません。.env.local に VITE_SUPABASE_URL と VITE_SUPABASE_ANON_KEY を入れてください。",
+  "comingSoon": "この画面はこれから作ります（{{id}}）"
+}
